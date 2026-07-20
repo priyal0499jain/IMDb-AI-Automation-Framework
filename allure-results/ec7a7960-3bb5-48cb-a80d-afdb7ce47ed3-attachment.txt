@@ -1,0 +1,6 @@
+Movie Title : Interstellar
+Release Year : 2014
+IMDb Rating : 8.7
+Duration : 2h 49m(169 min)
+Director : Christopher Nolan
+Genres : ['Adventure Epic', 'Epic', 'Psychological Drama', 'Quest', 'Sci-Fi Epic', 'Space Sci-Fi', 'Time Travel', 'Adventure', 'Drama', 'Sci-Fi']

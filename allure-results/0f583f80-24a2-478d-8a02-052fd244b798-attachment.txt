@@ -1,0 +1,5 @@
+✓ Search box found
+✓ Typed: Interstellar
+Search box value: Interstellar
+✓ Pressed ENTER
+Current URL: https://www.imdb.com/find/?q=Interstellar&ref_=hm_nv_srb_sm

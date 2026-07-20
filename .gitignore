@@ -1,0 +1,15 @@
+venv/
+
+.idea/
+
+__pycache__/
+
+logs/
+
+reports/
+
+screenshots/
+
+.pytest_cache/
+
+*.pyc
